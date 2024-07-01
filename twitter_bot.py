@@ -6,9 +6,9 @@ import time
 INTERNET_PROVIDER = ""
 PROMISED_DOWN = 100
 PROMISED_UP = 110
-CHROME_DRIVER_PATH = r"C:\Development\chromedriver.exe"
-TWITTER_EMAIL = "kenmuiruri07@gmail.com"
-TWITTER_PASSWORD = "(Muiruri07)"
+CHROME_DRIVER_PATH = ""
+TWITTER_EMAIL = ""
+TWITTER_PASSWORD = ""
 
 
 class InternetSpeedTwitterBot:
